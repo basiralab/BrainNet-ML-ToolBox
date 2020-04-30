@@ -14,6 +14,8 @@ To fill this gap, we leverage crowdsourcing by organizing a **Kaggle competition
 
 During the competition, participants were provided with a training dataset and only allowed to check their performance on a public test data. The final evaluation was performed on both public and hidden test datasets based on accuracy, sensitivity, and specificity metrics. Teams were ranked using each performance metric separately and the final ranking was determined based on the mean of all rankings. **The first-ranked team (Team-1) achieved 70% accuracy, 72.5% sensitivity, and 67.5% specificity, where the second-ranked team (Team-2) achieved 63.8%, 62.5%, 65% respectively.**
 
+![BrainNet pipeline](https://github.com/basiralab/BrainNet-ML-ToolBox/blob/master/Fig1.png)
+![BrainNet pipeline](https://github.com/basiralab/BrainNet-ML-ToolBox/blob/master/Fig2.png)
 
 # Installation
 

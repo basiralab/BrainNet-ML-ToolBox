@@ -33,7 +33,7 @@ Required Python Modules:
 * matplotlib
 * scikit-learn
 
-# Data Sets and Usage Format of Source Codes:
+# Dataset format:
 
 The brain network dataset in the training stage comprised 120 samples, each represented by 595 morphological connectivity features. The testing set comprised  80 samples. If you intend to run source codes for your own dataset, some operations inside the codes such as constant feature elimination and loading data from CSV files can be modified accordingly. 
 

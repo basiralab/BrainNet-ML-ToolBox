@@ -39,6 +39,15 @@ The brain network dataset in the training stage comprised 120 samples, each repr
 
 # Please cite the following paper when using BrainNet-ML-ToolBox:
 
+```
+@article{brainNetML2020,
+  title={Machine Learning Methods for Brain Network Classification: Application to Autism Diagnosis using Cortical Morphological Networks},
+  author={Bilgen, Ismail and Guvercin, Goktug and Rekik, Islem},
+  journal={arXiv preprint arXiv:2004.13321},
+  year={2020}
+}
+
+```
 Paper link on arXiv:
 https://arxiv.org/pdf/2004.13321v1.pdf
 
